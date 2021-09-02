@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @lalaulalai
 - 👀  I’m interested in Moodle
-- 🌱  I’m currently learning pedagogy, moodle and frontend develope.
+- 🌱  I’m currently learning frontend develope.
 
 
 <!---
